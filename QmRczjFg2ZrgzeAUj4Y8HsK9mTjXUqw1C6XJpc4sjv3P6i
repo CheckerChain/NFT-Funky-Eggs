@@ -1,0 +1,2431 @@
+{
+	"name": "Funky Eggs",
+	"nfts": [
+		{
+			"description": "Aku is an Alien in the NFT collection.",
+			"fileName": "1.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                {
+					"trait_type": "Name",
+					"value": "Akku Demon"
+				},
+                {
+					"trait_type": "Background",
+					"value": "YellowGreen"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Dimgray"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Sneaky"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Protruding"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Flander is a Baseball Fan in the NFT collection.",
+			"fileName": "2.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                {
+					"trait_type": "Name",
+					"value": "Flander"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Gold"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Indiared"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Imperial"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Angry"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Stoned"
+				}
+				
+			]
+		},
+        {
+			"description": "Chase  is Policeman in the NFT collection.",
+			"fileName": "3.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+					"trait_type": "Name",
+					"value": "Chase"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dodgerblue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blue Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "connoisseur mustache"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Calm"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Closed"
+				}
+				
+			]
+		},
+        {
+			"description": "Demona is a Human eating Demon in the NFT collection.",
+			"fileName": "4.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+					"trait_type": "Name",
+					"value": "Demona"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Hotpink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Coral"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pink Bow"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Black Round"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Hungry"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Rolling"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Kobit is a Dog Food Tester in the NFT collection.",
+			"fileName": "5.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Kobit"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Slateblue,Rosybrown"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Yellowgreen"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Undercut"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Afraid"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Clock"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Bernard is a Momma's Boy in the NFT collection.",
+			"fileName": "6.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Bernard"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Midnight Blue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Orangered"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Shortblonde"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Pink Cat"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Surprised"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Sparking Big"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Creeper is a Mad Hungry Zombie in the NFT collection.",
+			"fileName": "7.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Creeper"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dark Slategray"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Red cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Bossy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Green White Buttons"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Larry is a Odor Judge in the NFT collection .",
+			"fileName": "8.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Larry"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dark Grey"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Turquoise"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Comb Over"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Smiling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Shield Glass"
+				}
+				
+			]
+		},
+
+        {
+			"description": "Ben is a Full time Toilet Keeper in  the NFT collection .",
+			"fileName": "9.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Ben"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Maroon"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Eminence"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Fringe"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Lauging"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Sunglass"
+				}
+				
+			]
+		},
+
+        {
+			"description":"Joker is Legal Bank Robber in the NFT collection.",
+			"fileName": "10.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Joker"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Apple,Killarney"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Alabaster"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Red Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Happily Screaming "
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Buttons"
+				}
+				
+			]
+		},
+        {
+			"description": "Orggy is a Snake Milker in the NFT collection.",
+			"fileName": "11.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Orggy"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Hot Pink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Mango Tango"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Happily Smiling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Rolling"
+				}
+				
+			]
+		},
+        {
+			"description": "Eddy is Full time Netflix Watcher in the NFT collection.",
+			"fileName": "12.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Eddy"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Rainbow"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Dark Olive Green"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Undercut Fringes "
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Shy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Big Round"
+				}
+				
+			]
+		},
+        {
+			"description": "Pappu Pig is Train Pusher  in the NFT collection.",
+			"fileName": "13.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Pappu Pig"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Light Salmon,Tomato"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Deep Koamaru"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Funky"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Pig Nose"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Proud"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Wayfarer Sunglass"
+				}
+				
+			]
+		},
+        {
+			"description": "HulkMan is a LifeGuard at Olympics in the NFT collection .",
+			"fileName": "14.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "HulkMan"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Regent Gray"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Dark Green"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Forward Brush"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Black Round"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Angry"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Downturning"
+				}
+				
+			]
+		},
+        {
+			"description": "Donald Trump is Vomit Cleaner a in the NFT collection.",
+			"fileName": "15.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Donald Trump"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Jelly Bean,Puce"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Chocolated"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Srugical Comb Over"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Yellow Round"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Yelling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Focused"
+				}
+				
+			]
+		},
+        {
+			"description": "Power Girl is a Chicken Sexer in the NFT collection.",
+			"fileName": "16.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Power Girl"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Aqua,Midnight Blue,Canary"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Mulberry"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Butch"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Kind"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Large Oval"
+				}
+				
+			]
+		},
+        {
+			"description": "Betty is Professional Cuddler in the NFT collection.",
+			"fileName": "17.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Betty"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Froly,Saffron Mango"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Powder Blue"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Fringes"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Happy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Wayfarer Glass"
+				}
+				
+			]
+		},
+        {
+			"description": "Dorky is a Rental Demon Boyfriend in the NFT collection.",
+			"fileName": "18.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Dorky"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dark Orange"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Angry"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Red Devil"
+				}
+				
+			]
+		},
+        {
+			"description": "Goofy is a Secret Agent in the NFT collection.",
+			"fileName": "19.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Goofy"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Gold,Orange"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Forward Long Fringe"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Confused"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "None"
+				}
+				
+			]
+		},
+        {
+			"description": "Chuck is Professional Bed Tester a in the NFT collection.",
+			"fileName": "20.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Chuck"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Crimson"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Rosybrown,Palevioletred"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Black Round Hat"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Smiling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Brown Sunglass"
+				}
+				
+			]
+		},
+        {
+			"description": "Pluto is a Professional Worm Picker in the NFT collection.",
+			"fileName": "21.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Pluto"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Deep Pink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Sienna"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Curly Blue"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Smiling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Square Glass"
+				}
+				
+			]
+		},
+        {
+			"description": "Brat is a Dog Surfing Instructor in the NFT collection.",
+			"fileName": "22.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Brat"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Sea Pink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Pesto"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Black Cloudy"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Excited"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Vintage Glass"
+				}
+				
+			]
+		},
+        {
+			"description": "Zach is a Armpit Sniffer in the NFT collection.",
+			"fileName": "23.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Zach"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dark Orange"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Dorger Blue"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Short Upturned"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Motivated"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Orange"
+				}
+				
+			]
+		},
+        {
+			"description": "Dango Rino is a  Professional Sleeper in  the NFT collection.",
+			"fileName": "24.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Dango Rino"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Starship,Pastel Green"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Aubergine"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Bowl Cut"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Sleepy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Sleepy"
+				}
+				
+			]
+		},
+        {
+			"description": "Pirate of NFT is a Professional Water Slider tester in the NFT collection.",
+			"fileName": "25.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Pirate of NFT"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Red Voilet"
+				},
+                {
+					"trait_type": "Body",
+					"value": "White"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pirate Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Enraged"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Eye patch,Round eye"
+				}
+				
+			]
+		},
+        {
+			"description": "Kygo is a Professional Hypnotizer in the NFT collection.",
+			"fileName": "26.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Kygo"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Rosybrown"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Firebrick"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Black Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Afraid"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Hypnotize"
+				}
+				
+			]
+		},
+        {
+			"description": "Finn is a Panda Nanny in the NFT collection.",
+			"fileName": "27.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Finn"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Koromiko,Seagreen"
+				},
+                {
+					"trait_type": "Body",
+					"value": "White"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Orange Side Parted"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Big Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Semi Round"
+				}
+				
+			]
+		},
+        {
+			"description": "Tokyo is a Professional Zombie in the NFT collection.",
+			"fileName": "28.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Tokyo"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Goldenrod"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pink Side parted Fringe"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Afraid"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Closed X"
+				}
+				
+			]
+		},
+        {
+			"description": "Fudd is a Full time Paranormal Tour Guide in the NFT collection.",
+			"fileName": "29.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Fudd"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Sunglow,Wild Watermealon"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Ocean Green"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "White Under cut"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Happy Excited"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Closed Wink"
+				}
+				
+			]
+		},
+        {
+			"description": "Rebecca is a Crime Scene Cleaner in the NFT collection.",
+			"fileName": "30.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Rebecca"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Yellow Green"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Clairvoyant"
+				},
+				{
+					"trait_type": "Hair",
+					"value": " Long Blue Curly"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Pout"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": " Black Almond"
+				}
+				
+			]
+		},
+        {
+			"description": "Eric is a Professional Furniture Tester in the NFT collection.",
+			"fileName": "31.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Eric"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Rainbow"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Caribbean Green"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Spiky"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Connoisseur Mustache"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "None"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Small Green "
+				}
+				
+			]
+		},
+        {
+			"description": "Dexter is Professional Hangover Cure Specialist  in the NFT collection.",
+			"fileName": "32.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Dexter"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Butter Cup"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Green Smoke"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Purple Middle Partition"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Love"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Confused"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Blue Almond"
+				}
+				
+			]
+		},
+        {
+			"description": "Zen is Chocolate Tester in the NFT collection.",
+			"fileName": "33.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Zen"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Shimmering Blush,Melrose"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Hot Cinnamon"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Short Fringe"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Small"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Smirking"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Small Round"
+				}
+				
+			]
+		},
+        {
+			"description": "Batman is a Rental Superhero in the NFT collection.",
+			"fileName": "34.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Batman"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Jelly Bean"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Tacao"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Black Mask"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Angry Blood"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "White Triangle"
+				}
+				
+			]
+		},
+        {
+			"description": "Lou is a Professional Mourner in the NFT collection.",
+			"fileName": "35.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Lou"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Black"
+				},
+                {
+					"trait_type": "Body",
+					"value": "burlywood"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Middle Partition"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Curly Mustache"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "None"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Transparent Glass"
+				}
+				
+			]
+		},
+        {
+			"description": "Gru is a Professional Snake Hunter  in the NFT collection.",
+			"fileName": "36.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Gru"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Red"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Willow Grove"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Culry"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Long"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Smiling"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Sunglass"
+				}
+				
+			]
+		},
+        {
+			"description": "Lexi is a Ghost Hunter in the NFT collection.",
+			"fileName": "37.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Lexi"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Fuel Yellow,Orange"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Blaze Orange"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pink Front Turned"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Devil Red"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "One Round"
+				}
+				
+			]
+		},
+        {
+			"description": "Angelica is a Professional Love Guru in the NFT collection.",
+			"fileName": "38.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Angelica"
+				},
+                {
+					"trait_type": "Background",
+					"value": "New York Pink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Violent Violet"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Long Wavey"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Red licking"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Big Round"
+				}
+				
+			]
+		},
+        {
+			"description": "Kokerz is a Rental Joker in the NFT collection.",
+			"fileName": "39.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Kokerz"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Killarney"
+				},
+                {
+					"trait_type": "Body",
+					"value": "White"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Red Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Red Round"
+				},
+				{
+					"trait_type": "Mouth",
+					"value": "Grinning"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Buttons"
+				}
+				
+			]
+		},
+        {
+			"description": "Martin is a Professional Human Statue in the NFT collection.",
+			"fileName": "40.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Martin"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Cosmos"
+				},
+                {
+					"trait_type": "Body",
+					"value": " Green House"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Over Excited"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Semi Circular"
+				}
+				
+			]
+		},
+        {
+			"description": "Randoo is a Airplane Painter  in the NFT collection.",
+			"fileName": "41.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Randoo"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Hopbush"
+				},
+                {
+					"trait_type": "Body",
+					"value": "De York"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Green"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Semi Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Oval"
+				}
+				
+			]
+		},
+        {
+			"description": "Flexi is a Thief Hunter in the NFT collection.",
+			"fileName": "42.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Flexi"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Green"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Loulou"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Red"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Afraid Cry"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Crying"
+				}
+				
+			]
+		},
+        {
+			"description": "Tango is a Professional Paint Dry Watcher in the NFT collection.",
+			"fileName": "43.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Tango"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Tulip"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Screamin Green"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Exhusted"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round Sleepy"
+				}
+				
+			]
+		},
+        {
+			"description": "Garnet is a Fake Wedding Guest in the NFT collection.",
+			"fileName": "44.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Garnet"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Grey"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Alizarin Crimson"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blue Long"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Happy Shy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Black Almond"
+				}
+				
+			]
+		},
+        {
+			"description": "Beasty is a Professional Food Eater in the NFT collection.",
+			"fileName": "45.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Beasty"
+				},
+                {
+					"trait_type": "Background",
+					"value": "William"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Black"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Red Cap"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Devil Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "White Green Buttons"
+				}
+				
+			]
+		},
+        {
+			"description": "Fuku is a Online Dating Ghostwriter in the NFT collection.",
+			"fileName": "46.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Fuku"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Bright Turquoise"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Booger Buster"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Bob Cut"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Wide Happy"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Closed X"
+				}
+				
+			]
+		},
+        {
+			"description": "SuperWoman is a Fake SuperHero in the NFT collection.",
+			"fileName": "47.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "SuperWoman"
+				},
+                {
+					"trait_type": "Background",
+					"value": " Elm"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Bright Sun"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pink Pony"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Red Mask"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Red"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Blue Circular"
+				}
+				
+			]
+		},
+        {
+			"description": "Talos is a Monster in the NFT collection.",
+			"fileName": "48.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Talos"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Shilo "
+				},
+                {
+					"trait_type": "Body",
+					"value": "Lime"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Red Mask"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Scared"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Parietal"
+				}
+				
+			]
+		},
+        {
+			"description": "Swamp is a Flower Demon in the NFT collection.",
+			"fileName": "49.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Swamp"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Orangered"
+				},
+                {
+					"trait_type": "Body",
+					"value": "White"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Curl"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Black Love"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Flowers"
+				}
+				
+			]
+		},
+        {
+			"description": "Bluey is a Water Demon in the NFT collection.",
+			"fileName": "50.png",
+			"fileType": "image/png",
+			"tags": [
+				"eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Bluey"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Picton Blue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "San Marino"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Demon Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Demon Red"
+				}
+				
+			]
+		},
+        {
+			
+            "description": "Kri  is a Professional Honey Keeper in  the NFT collection.",
+			"fileName": "51.png",
+			"fileType": "image/png",
+			"tags": [
+				"Eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Kri"
+				},
+                {
+					"trait_type": "Background",
+					"value": "lightpink"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Darkslateblue"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Black Wavey"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Semi Oval"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Sweet Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Round"
+				}
+            ]
+		},
+        {
+			
+            "description": "Bob is a Professional Milkman in the NFT collection.",
+			"fileName": "52.png",
+			"fileType": "image/png",
+			"tags": [
+				"Eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Bob"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Dodgerblue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Palevioletred"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Spikey Brown"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Semi Oval"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Killer Smile"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Cool Sunglass"
+				}
+            ]
+		},
+        {
+			
+            "description": "Marcus is a Rental Husband in the NFT collection.",
+			"fileName": "53.png",
+			"fileType": "image/png",
+			"tags": [
+				"Eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Marcus"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Yellow Enlighted"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Darkolivegreen"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "African Feather"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "Big Circular Pink"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Zipper"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Robot"
+				}
+			]
+			
+		},
+        {
+			
+            "description": "Valentine is a Professional Lover in the NFT collection.",
+			"fileName": "54.png",
+			"fileType": "image/png",
+			"tags": [
+				"Eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "Valentine"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Darkslateblue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Pink"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Pink Short"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"Red"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "Love"
+				}
+			]
+			
+		},
+        {
+			
+            "description": "God is a Professional Comedian in the NFT collection.",
+			"fileName": "55.png",
+			"fileType": "image/png",
+			"tags": [
+				"Eggs",
+				"Elrond",
+				"Isengard",
+                "FunkyEggs",
+                "EggsNFT"
+			],
+			"attributes": [
+                { 
+                    
+					"trait_type": "Name",
+					"value": "God"
+				},
+                {
+					"trait_type": "Background",
+					"value": "Deepskyblue"
+				},
+                {
+					"trait_type": "Body",
+					"value": "Sienna"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "Blad"
+				},
+				{
+					"trait_type": "Nose",
+					"value": "None"
+				},
+				{
+					"trait_type": "Mouth",
+					"value":"None"
+				},
+				{
+					"trait_type": "Eyes",
+					"value": "None"
+				}
+			]
+			
+		}        
+	]
+}
